@@ -1,5 +1,5 @@
 
-### 🚀 Olá Sou o Rafael Neris 🖖
+### 🚀 Olá! Sou o Rafael Neris 🖖
   Estudante de Algoritmo e Lógica de Programação na **Udemy**.  
   Apaixonado por **Tecnologia, Jogos, filmes, series.**  
   
@@ -13,4 +13,4 @@
 
 
 ## 🛠 Habilidades
-VsCode, Javascript...
+VsCode, JavaScript...
